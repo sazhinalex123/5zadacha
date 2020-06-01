@@ -39,4 +39,5 @@ with open("zxc.txt") as f:
                 if s<0:
                     s=0
 print("maxs=",maxs)
+f.close()
                 
